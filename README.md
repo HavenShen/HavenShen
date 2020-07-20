@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 <a href="https://twitter.com/oussth3boss/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=79D9CE" alt="Twitter">
 </a>
 <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=79D9CE" alt="Gmail">
 </a>
 <a href="https://www.instagram.com/havenshen/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=79D9CE" alt="Instagram">
 </a>
-
-🔭 Coding...
 
 🇨🇳 China Hangzhou
 
