@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=havenshen&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97&line_height=25&hide=[%22contribs%22,%22prs%22]" />
 
 🔭 Coding...
+
 🤔 I’m looking for help with ...
+
 ⚡ https://havenshen.com
