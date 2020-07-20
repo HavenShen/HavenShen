@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
+```shell
+> help --info
+> China Hangzhou
+> https://havenshen.com
+```
+
+
 <a href="https://twitter.com/oussth3boss/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=79D9CE" alt="Twitter">
 </a>
@@ -26,12 +33,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/havenshen/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=79D9CE" alt="Instagram">
 </a>
-
-```shell
-> help --info
-> China Hangzhou
-> https://havenshen.com
-```
 
 ## Repo
 
