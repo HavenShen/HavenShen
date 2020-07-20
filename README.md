@@ -27,14 +27,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=79D9CE" alt="Instagram">
 </a>
 
-🇨🇳 China Hangzhou
-
-⚡ https://havenshen.com
+```shell
+> help --info
+> China Hangzhou
+> https://havenshen.com
+```
 
 ## Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FCD765&hide_title=true&title_color=FFFFFF)](https://github.com/HavenShen/slim-born)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HavenShen.HavenShen)
-
-⭐️ from [@HavenShen](https://github.com/HavenShen)
