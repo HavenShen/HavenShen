@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **HavenShen/HavenShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,14 @@ Here are some ideas to get you started:
 🇨🇳 China Hangzhou
 
 ⚡ https://havenshen.com
+
+## Repo
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born)](https://github.com/HavenShen/slim-born)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=Slim-Cors)](https://github.com/HavenShen/Slim-Cors)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=larsign)](https://github.com/HavenShen/larsign)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=dingtalk)](https://github.com/HavenShen/dingtalk)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HavenShen.HavenShen)
+
+⭐️ from [@HavenShen](https://github.com/HavenShen)
