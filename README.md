@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born&show_icons=true&icon_color=FCD765&text_color=6A6775&bg_color=FCD765&hide_title=true&title_color=6A6775)](https://github.com/HavenShen/slim-born)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FCD765&hide_title=true&title_color=FFFFFF)](https://github.com/HavenShen/slim-born)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HavenShen.HavenShen)
 
