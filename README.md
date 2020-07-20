@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/oussth3boss/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=79D9CE" alt="Twitter">
 </a>
-<a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+<a href="mailto:havenshen@gmail.com" mailto="havenshen@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=79D9CE" alt="Gmail">
 </a>
 <a href="https://www.instagram.com/havenshen/" target="_blank">
@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 ## Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born)](https://github.com/HavenShen/slim-born)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=Slim-Cors)](https://github.com/HavenShen/Slim-Cors)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=larsign)](https://github.com/HavenShen/larsign)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=dingtalk)](https://github.com/HavenShen/dingtalk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/slim-born)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=Slim-Cors&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/Slim-Cors)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=larsign&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/larsign)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=dingtalk&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/dingtalk)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HavenShen.HavenShen)
 
