@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/havenshen/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
 </a>
+
 🔭 Coding...
+
 🇨🇳 China Hangzhou
+
 ⚡ https://havenshen.com
 
 ## Repo
