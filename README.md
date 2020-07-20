@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 
 ## Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/slim-born)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=Slim-Cors&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/Slim-Cors)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=larsign&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/larsign)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=dingtalk&show_icons=true&icon_color=FCD765&text_color=FFFFFF&bg_color=79D9CE&hide_title=true&title_color=F19C97)](https://github.com/HavenShen/dingtalk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=havenshen&repo=slim-born&show_icons=true&icon_color=FCD765&text_color=6A6775&bg_color=FCD765&hide_title=true&title_color=6A6775)](https://github.com/HavenShen/slim-born)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HavenShen.HavenShen)
 
