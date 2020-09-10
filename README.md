@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ```shell
 > help --info
 > China Hangzhou
-> https://havenshen.com
 ```
 
 
