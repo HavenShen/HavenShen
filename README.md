@@ -2,5 +2,4 @@
 
 ```shell
 > help --info
-> China Hangzhou
 ```
